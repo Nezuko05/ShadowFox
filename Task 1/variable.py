@@ -1,2 +1,2 @@
-pi = 22/7
-print(pi)
+pi=22/7
+print(type(pi))
