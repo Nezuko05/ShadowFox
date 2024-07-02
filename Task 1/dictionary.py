@@ -8,19 +8,19 @@ print(tuple_list)
 
 #--------------------------------------------------------------------------------------------------#
 
-2.You and your partner are planning a trip, and you want to track expenses. 
-Create two dictionaries, one for your expenses and one for your partner's expenses. 
-Each dictionary should contain at least 5 expense categories and their corresponding amounts.
-For example:
-Your expenses
+# 2.You and your partner are planning a trip, and you want to track expenses. 
+# Create two dictionaries, one for your expenses and one for your partner's expenses. 
+# Each dictionary should contain at least 5 expense categories and their corresponding amounts.
+# For example:
+# Your expenses
 your_expenses = {
-"Hotel": 1200,
-"Food": 800,
-"Transportation": 500,
-"Attractions": 300,
-"Miscellaneous": 200
+    "Hotel": 1200,
+    "Food": 800,
+    "Transportation": 500,
+    "Attractions": 300,
+    "Miscellaneous": 200
 }
-Your partner's expenses
+# Your partner's expenses
 partner_expenses = {
 "Hotel": 1000,
 "Food": 900,
@@ -28,11 +28,11 @@ partner_expenses = {
 "Attractions": 400,
 "Miscellaneous": 150
 }
-Calculate the total expenses for each of you and print the results.
-Determine who spent more money overall and print the result.
-Find out the expense category where there is a significant difference in spending between you and your partner.
-Print the category and the difference.
-'''
+# Calculate the total expenses for each of you and print the results.
+# Determine who spent more money overall and print the result.
+# Find out the expense category where there is a significant difference in spending between you and your partner.
+# Print the category and the difference.
+# '''
 
 # Create two dictionaries, one for your expenses and one for your partner's expenses. 
 
