@@ -17,7 +17,7 @@ print(web.title.name)
 # Displaying Website Title String
 print(web.title.string)
 
-# Displaying Website Link or Anchor Tag
+# Displaying Website Link or Anchor Taggit
 print(web.a)
 
 # Displaying Website First Para tag
