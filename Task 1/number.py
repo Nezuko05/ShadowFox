@@ -11,7 +11,7 @@ print(formatfunc(145,"o"))
 # Bonus Question: If there is exactly 1.4 liters of water in a square meter, what is the total amount of water in the pond? 
 # Print the answer without any decimal point in it. Hint: Circle Area = π r^2 Water in the pond = Pond Area Water per Square Meter
 
-i=3.14
+pi=3.14
 radius=84
 Area=int(pi*radius*radius)
 total_amount_of_water=int(Area*1.4)
